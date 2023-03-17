@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/entidades/Dublador.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/EstudioDao.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/models/AbstractModel.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/AbstractDao.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/Conexao.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/Arquivos.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/models/EstudioListModel.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmSobre.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmPrincipal.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/models/AlinharConteudoJTable.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmDubladorPesquisa.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/DubladorDao.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/AbstractDaoImpl.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmDublador.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/entidades/Filme.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmEstudioPesquisa.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/models/DubladorListModel.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/entidades/Estudio.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmEstudio.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmFilmePesquisa.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/dao/FilmeDao.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/models/FilmeListModel.java</file>
+            <file>file:/C:/Users/queima%20rosca/Documents/NetBeansProjects/TrabalhoOrientacaoObjeto/src/br/edu/utfpr/views/FrmFilme.java</file>
+        </group>
+    </open-files>
+</project-private>

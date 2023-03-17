@@ -1,0 +1,39 @@
+-- Database: PedroAndreoli
+
+-- DROP DATABASE IF EXISTS "PedroAndreoli";
+
+CREATE DATABASE "PedroAndreoli"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Portuguese_Brazil.1252'
+    LC_CTYPE = 'Portuguese_Brazil.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+	
+	
+	
+Create table Dublador(
+ID SERIAL PRIMARY KEY,
+nome VARCHAR(200),
+DRT VARCHAR(20)
+);
+
+create table Estudio(
+ID SERIAL PRIMARY KEY,
+nome VARCHAR(200),
+CNPJ VARCHAR(20)
+);
+
+create table Filme(
+ID SERIAL PRIMARY KEY,
+Nome varchar(20),
+IDDUBLADOR INT,
+IDESTUDIO INT,
+CONSTRAINT fk_iddublador
+      FOREIGN KEY(iddublador) 
+	  REFERENCES dublador(id),
+CONSTRAINT fk_idestudio
+      FOREIGN KEY(idestudio) 
+	  REFERENCES estudio(id)
+);
